@@ -1,0 +1,7 @@
+Testsuite: at.fhj.itm.petrovak15.Point2dTest
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.035 sec
+
+Testcase: testSetY took 0.005 sec
+Testcase: testSetX took 0 sec
+Testcase: testDistanceFrom took 0 sec
+Testcase: testDistanceFromOrigin took 0 sec
